@@ -5,7 +5,7 @@ Coaches have emphasized to parents the importance of starting tennis training at
 It is well-known that behind the talented and renowned tennis players of the world are the academies that nurture and enhance their skills. These academies strive to train the best players at various levels, each with its own training philosophy but all sharing the common goal of fostering talent and contributing to the next generation of tennis champions. In order to achieve this ultimate goal, academies require a large number of players who start training at an early age and participate in local championships from the grassroots levels, thus preparing them for international competitions.
 ## Solution
 The purpose of this document is to outline the steps to execute the file "tennisATP.R," which can be downloaded from the following link:
-[tennisATP.R](https://drive.google.com/file/d/1lCXWCATh1G2_XTqWgi0gw-yfR611lyIR/view?usp=sharing)
+[tennisATP.R](https://github.com/libianitas/Data-analyst/edit/main/README.md)
 
 1. We need to download and install R from the following link: 
    [R](https://cran.r-project.org/bin/windows/base/)
@@ -15,4 +15,4 @@ The purpose of this document is to outline the steps to execute the file "tennis
 
 Once RStudio is open, we can proceed to open the "tennisATP.R" file. Within the file, each line of code is detailed step by step along with its objective. Moreover, you can execute the code and visualize the generated plots, which serve as the best source of backup for tennis coaches.
 
-If there is a need to obtain data from the Women's Tennis Association (WTA), it is only necessary to change the names of the data frames to those of the WTA. These can be visualized using the function help(package = "deuce").
+If there is a need to obtain data from the Women's Tennis Association (WTA), it is only necessary to change the names of the data frames to those of the WTA. These can be visualized using the function `help(package = "deuce")`.
