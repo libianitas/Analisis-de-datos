@@ -6,7 +6,7 @@ Con este análisis se pretende respaldar la afirmación de la importancia de la 
 ## Caso concreto a analizar
 Se busca analizar la importancia de la edad de inicio en el entrenamiento del tenis mediante el estudio de los datos de la ATP y la WTA. El análisis se centra en los 50 mejores jugadores del ranking ATP del último torneo registrado en 2023, determinando la edad promedio en la que jugaron su primer partido y comparándola con la edad promedio de todos los jugadores que ganan partidos. También se analizará si estos jugadores ganan más partidos antes o después de esa edad promedio.
 De manera similar, se aplicará el mismo análisis para las jugadoras de la WTA, utilizando dataframes separados y siguiendo la guía del archivo tennisATP.R. Este estudio busca proporcionar información útil para entrenadores, academias y familias, destacando los factores clave para alcanzar posiciones en los rankings profesionales.
-##¿Lenguaje de programación a utilizar? 
+## ¿Lenguaje de programación a utilizar? 
 Se propone utilizar el lenguaje de programación R de modalidad abierta, libre y gratis que es especializado en proporcionar técnicas estadísticas y gráficas. Está disponible con licencia GNU, por lo que cualquier usuario tiene derecho a estudiar, usar modificar y compartir el software. R es muy utilizado en investigación científica, manipulación de datos, análisis estadístico entre otras áreas.
 Links de descarga [R](https://cran.r-project.org/bin/windows/base/) y [RStudio](https://posit.co/download/rstudio-desktop/)
 ##¿Librería a utilizar para el tratamiento de los datos del TENIS?
