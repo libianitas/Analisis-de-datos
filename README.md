@@ -1,18 +1,4 @@
 # Analista de Datos
-## Desarrollo del problema
-El presente trabajo muestra un storytelling, del análisis de datos deportivos especificamente del tenis. 
-Se analizarán estadísticas de rankings, jugadores y partidos de la ATP y la WTA. Este análisis se realizará por separado distinguiendo el género ya que la información se almacena en dataframes diferentes según la organización que los regula.
-
-## Solución
-pasos necesarios para ejecutar el archivo «tennisATP.R», que puede descargarse desde el siguiente enlace:
-[tennisATP.R](https://github.com/libianitas/Data-analyst/edit/main/README.md)
-
-1. We need to download and install R from the following link: 
-   [R](https://cran.r-project.org/bin/windows/base/)
-
-2. We need to download and install RStudio (IDE) from the following link:
-   [RStudio](https://posit.co/download/rstudio-desktop/)
-
-Once RStudio is open, we can proceed to open the "tennisATP.R" file. Within the file, each line of code is detailed step by step along with its objective. Moreover, you can execute the code and visualize the generated plots, which serve as the best source of backup for tennis coaches.
-
-If there is a need to obtain data from the Women's Tennis Association (WTA), it is only necessary to change the names of the data frames to those of the WTA. These can be visualized using the function `help(package = "deuce")`.
+## Libia Sánchez
+Máster en Análisis Inteligente de Datos Masivos (Big Data) e Ingeniera en Sistemas Informáticos con más de 13 años de experiencia en diseño y desarrollo de esquemas de bases de datos, extracción, transformación, carga y limpieza de datos técnicos, comerciales y financieros de importante empresa distribuidora de energía eléctrica en Ecuador. Ejecución de análisis exploratorio EDA con resumen estadístico, visualización, análisis de correlación complementando con la creación de reportes gerenciales todo desplegado en servidores de producción. Gran dominio de herramientas como Oracle, MySQL, PostgreSQL, Microsoft SQL, SQLDeveloper, SQL, PLSQL, Python, R, Java, Excel, Power BI y JasperReport. Aplico metodologías de trabajo SCRUM y CRISP-DM, garantizando la entrega de soluciones basadas en datos de manera eficiente y oportuna.
+En mi último proyecto como Analista de Datos en una institución financiera, realicé un análisis detallado de la situación crediticia de los clientes para predecir la probabilidad de impago en créditos. Este proyecto incluyó la extracción y el preprocesamiento de datos históricos, la identificación de variables clave para la predicción y el desarrollo de modelos de aprendizaje automático como Regresión Logística, Random Forest, XGBoost y Árboles de Decisión. Balanceando los datos, y ajustando hiper parámetros aseguré la precisión y confiabilidad de las predicciones, proporcionando información estratégica para mejorar la gestión del riesgo crediticio.
