@@ -13,6 +13,7 @@ Links de descarga [R](https://cran.r-project.org/bin/windows/base/) y [RStudio](
 La librería que mejor responde a las necesidades del análisis que se requiere realizar es DEUCE.
 Fue desarrollada por Stephanie Kovalchik, una australiana científica de datos Senior y es compartida en la plataforma GitHub [Deuce](https://github.com/skoval/deuce) 
 Para iniciar con su implementación es necesaria su instalación e importación en un archivo nuevo de R.
+
 `install_github("skoval/deuce")`
 
 library(deuce)
