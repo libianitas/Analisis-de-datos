@@ -14,18 +14,6 @@ La librería que mejor responde a las necesidades del análisis que se requiere 
 Fue desarrollada por Stephanie Kovalchik, una australiana científica de datos Senior y es compartida en la plataforma GitHub [Deuce](https://github.com/skoval/deuce) 
 Instalamos e importamos la librería skoval/deuce. Esta libreria nos permite acceder a los datos del repositorio [atp_rankings](https://github.com/JeffSackmann/tennis_atp). La fuente de datos del tenis a utilizar es creada por Jeff Sackmann, quien ha recopilado información desde 1985.
 Para iniciar con su implementación es necesaria su instalación e importación en un archivo nuevo de R.
-
-`install_github("skoval/deuce")`
-`library(deuce)`
-Se recomienda ejecutar la sentencia siguiente para obtener todas las funciones disponibles, con las variables de respuesta y ejemplos de uso.
-
-`help(package = "deuce")`
-
-Para cargar los datos y tenerlos disponibles usamos la función data y para obtener un resumen estadístico usamos la función summary.
-
-`data(atp_rankings)`
-`summary(atp_matches)`
-
 ## Solución 
 Se crea un archivo R llamado tennisATP.R el cual puede descargar del siguiente enlace [tennisATP.R](analisis_deportivo/tennisATP.R).
 Se cargan los datos.
