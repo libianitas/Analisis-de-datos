@@ -10,3 +10,6 @@ La solución se basa en las 6 fases recomendadas por la metodología CRISP-DM.
 + Preparación, visualización, balanceo de datos con ROS y SMOTE, transformación de datos categóricos a numéricos con las técnicas de dummy encoding y label encoding con Python y R.
 + Optimización de hiper parámetros, entrenamiento y pruebas de modelos de Machine Learning Regresión Logística, Árbol de decisión, Random Forest y XGBoost.
 + Evaluación de los modelos de Machine Learning con matrices de confusión e índices de precisión
+
+## Desarrollo de la solución
+Se crea un script en Python predecir_estado_crediticio que se recomienda ser ejecutado en Google Colab 
