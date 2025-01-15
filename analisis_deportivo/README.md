@@ -16,8 +16,8 @@ Instalamos e importamos la librería skoval/deuce. Esta libreria nos permite acc
 
 Para iniciar con su implementación es necesaria su instalación e importación en un archivo nuevo de R.
 ## Solución 
-Se crea un archivo R llamado tennisATP.R el cual puede descargar del siguiente enlace [tennisATP.R](analisis_deportivo/tennisATP.R).
-Se cargan los datos.
++ Se crea un archivo R llamado tennisATP.R el cual puede descargar del siguiente enlace [tennisATP.R](analisis_deportivo/tennisATP.R).
++ Se cargan los datos.
 Se visualiza los datos de ranking
 Se obtiene un resumen del dataframe y se verifica el tipo de dato
 Se eliminan datos redundantes y valores faltantes.
