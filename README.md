@@ -7,5 +7,5 @@ En mi último proyecto como Analista de Datos en una institución financiera, re
 1. [Análisis_deportivo](analisis_deportivo/README.md)
 El presente trabajo muestra un storytelling, del análisis de datos del tenis regulado por la ATP Asociación de Tenistas Profesionales (hombres) y WTA Asociación de Tenis Femenino (mujeres). Se analizarán estadísticas de rankings, jugadores y partidos de la ATP y la WTA. Este análisis se realizará por separado distinguiendo el género ya que la información se almacena en dataframes diferentes según la organización que los regula. Con este análisis se pretende respaldar la afirmación de la importancia de la edad con la que se inicia en el entrenamiento del tenis, en especial si se tiene aspiraciones de llegar a competir en torneos oficiales internacionales.
 
-2. [Análisis_financiero]()  
+2. [Análisis_financiero](analisis_financiero/README.md)  
    - Uso de algoritmos de machine learning para predecir la probabilidad de retención de clientes.  
