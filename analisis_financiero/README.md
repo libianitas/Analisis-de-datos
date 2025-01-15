@@ -12,4 +12,5 @@ La solución se basa en las 6 fases recomendadas por la metodología CRISP-DM.
 + Evaluación de los modelos de Machine Learning con matrices de confusión e índices de precisión
 
 ## Desarrollo de la solución
-Se crea un script en Python [predecir_estado] que se recomienda ser ejecutado en Google Colab 
+Se crea un script Python [predecir_estado](analisis_financiero/predecir_estado_crediticio.ipynb) que trabaja con librerías como: pandas, numpy, matplotlib, seaborn, dateutil, RandomOverSampler,sklearn, scipy, chi2_contingency y se lo puede descargar y ejecutar con [Google Colab](https://colab.research.google.com/).
+El script Python lee un archivo CSV que contiene la información extraida de la base de datos SQL Server, lo puede descargar [data_creditos_completo9.csv] y
