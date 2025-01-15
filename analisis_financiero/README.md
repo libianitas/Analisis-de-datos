@@ -13,4 +13,7 @@ La solución se basa en las 6 fases recomendadas por la metodología CRISP-DM.
 
 ## Desarrollo de la solución
 Se crea un script Python [predecir_estado](analisis_financiero/predecir_estado_crediticio.ipynb) que trabaja con librerías como: pandas, numpy, matplotlib, seaborn, dateutil, RandomOverSampler,sklearn, scipy, chi2_contingency y se lo puede descargar y ejecutar con [Google Colab](https://colab.research.google.com/).
-El script Python lee un archivo CSV que contiene la información extraida de la base de datos SQL Server, lo puede descargar [data_creditos_completo9.csv] y
+El script Python lee un archivo CSV que contiene la información extraida de la base de datos SQL Server, lo puede descargar [data_creditos_completo9.csv](analisis_financiero/data_creditos_completo9.csv). Debe asegurarse que la ruta del archivo sea la del archivo que descargo.
+
+`df = pd.read_csv("/content/drive/MyDrive/Colab_Notebooks/TFM_final/data_creditos_completo9.csv", encoding = 'unicode_escape', engine ='python', sep = ";")`
+
