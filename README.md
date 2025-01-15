@@ -1,10 +1,10 @@
-# Data-analyst
-## Problem Statement
-In Ecuador, there are many private clubs that host tennis schools with well-equipped courts and highly experienced coaches, some of whom have been South American champions themselves. However, a common issue arises when children, typically the offspring of club members, develop an interest in tennis after the age of 13 and aspire to compete in professional ATP tournaments.
-Coaches have emphasized to parents the importance of starting tennis training at a young age based on their experience, but they lack the resources to fully support this advice. Children require specific skills for tennis, ranging from how to grip the racket to coordinating movements, speed, balance, endurance, and racket-handling dexterity. These are crucial skills that children need to develop in order to play properly, hence the importance of the starting age for training.
-It is well-known that behind the talented and renowned tennis players of the world are the academies that nurture and enhance their skills. These academies strive to train the best players at various levels, each with its own training philosophy but all sharing the common goal of fostering talent and contributing to the next generation of tennis champions. In order to achieve this ultimate goal, academies require a large number of players who start training at an early age and participate in local championships from the grassroots levels, thus preparing them for international competitions.
-## Solution
-The purpose of this document is to outline the steps to execute the file "tennisATP.R," which can be downloaded from the following link:
+# Analista de Datos
+## Desarrollo del problema
+El presente trabajo muestra un storytelling, del análisis de datos deportivos especificamente del tenis. 
+Se analizarán estadísticas de rankings, jugadores y partidos de la ATP y la WTA. Este análisis se realizará por separado distinguiendo el género ya que la información se almacena en dataframes diferentes según la organización que los regula.
+
+## Solución
+pasos necesarios para ejecutar el archivo «tennisATP.R», que puede descargarse desde el siguiente enlace:
 [tennisATP.R](https://github.com/libianitas/Data-analyst/edit/main/README.md)
 
 1. We need to download and install R from the following link: 
