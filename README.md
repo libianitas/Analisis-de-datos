@@ -4,7 +4,7 @@ Máster en Análisis Inteligente de Datos Masivos (Big Data) e Ingeniera en Sist
 En mi último proyecto como Analista de Datos en una institución financiera, realicé un análisis detallado de la situación crediticia de los clientes para predecir la probabilidad de impago en créditos. Este proyecto incluyó la extracción y el preprocesamiento de datos históricos, la identificación de variables clave para la predicción y el desarrollo de modelos de aprendizaje automático como Regresión Logística, Random Forest, XGBoost y Árboles de Decisión. Balanceando los datos, y ajustando hiper parámetros aseguré la precisión y confiabilidad de las predicciones, proporcionando información estratégica para mejorar la gestión del riesgo crediticio.
 
 ## Proyectos
-1. [Análisis_deportivo]()
+1. [Análisis_deportivo](analisis_deportivo/README.md)
 El presente trabajo muestra un storytelling, del análisis de datos del tenis regulado por la ATP Asociación de Tenistas Profesionales (hombres) y WTA Asociación de Tenis Femenino (mujeres). Se analizarán estadísticas de rankings, jugadores y partidos de la ATP y la WTA. Este análisis se realizará por separado distinguiendo el género ya que la información se almacena en dataframes diferentes según la organización que los regula. Con este análisis se pretende respaldar la afirmación de la importancia de la edad con la que se inicia en el entrenamiento del tenis, en especial si se tiene aspiraciones de llegar a competir en torneos oficiales internacionales.
 
 2. [Análisis_financiero]()  
