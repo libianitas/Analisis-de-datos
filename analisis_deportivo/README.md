@@ -27,7 +27,23 @@ Para cargar los datos y tenerlos disponibles usamos la función data y para obte
 `summary(atp_matches)`
 
 ## Solución 
-Se crea un archivo R llamado tennisATP.R el cual puede descargar del siguiente enlace []
+Se crea un archivo R llamado tennisATP.R el cual puede descargar del siguiente enlace [tennisATP.R](analisis_deportivo/tennisATP.R).
+Se cargan los datos.
+Se visualiza los datos de ranking
+Se obtiene un resumen del dataframe y se verifica el tipo de dato
+Se eliminan datos redundantes y valores faltantes.
+Se transforman datos a formatos requeridos.
+Se ejeuta un análisis EDA.
+Se seleccionan variables que aportan valor al análisis
+Se crean gráficos de dispersión, diagrama de barras, gráfico de densidad.
+Se obtiene la edad promedio de todos los jugadores que ganan los partidos en un torneo.
+Se obtiene un subset de los partidos ganados de los jugadores mejor rankeados 2023 cuando su edad es menor igual a la edad promedio con la que los jugadores suelen ganar los partidos.
+Se cuenta cuantos partidos por jugador han ganado, agrupando por jugador.
+Se obtiene un subset de los partidos ganados de los jugadores mejor rankeados 2023 cuando su edad es mayor a la edad promedio con la que los jugadores suelen ganar los partidos.
+Se cuenta cuantos partidos por jugado han ganado.
+Se obtiene los datos de todos los partidos ganados por los jugadores mejor rankeados 2023
+Se combinan dataframes.
+Se crea un gráfico de barras agrupadas con los resultados finales.
 
 
 
