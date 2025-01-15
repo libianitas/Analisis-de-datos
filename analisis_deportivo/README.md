@@ -33,9 +33,9 @@ Para iniciar con su implementación es necesaria su instalación e importación 
 + Se obtiene los datos de todos los partidos ganados por los jugadores mejor rankeados 2023
 + Se combinan dataframes.
 + Se crea un gráfico de barras agrupadas con los resultados finales.
-## Storytelling completo en
+## Storytelling completo
 
-[Analisis_deportivo_R](analisis_deportivo/Análisis deportivo con R Libia Sánchez.pdf) 
+[Analisis_deportivo_R](analisis_deportivo/Analisis_deportivo_tenis_con_R.pdf) 
 
 
 
