@@ -17,3 +17,4 @@ El script Python lee un archivo CSV que contiene la información extraida de la 
 
 `df = pd.read_csv("/content/drive/MyDrive/Colab_Notebooks/TFM_final/data_creditos_completo9.csv", encoding = 'unicode_escape', engine ='python', sep = ";")`
 
+
