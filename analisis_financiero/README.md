@@ -19,7 +19,6 @@ El script Python lee un archivo CSV que contiene la información extraida de la 
 
 ## Documentación completa con resumen y conclusión
 [analisis_financiero](analisis_financiero/Análisis financiero.pdf)
-[analisis_financiero](analisis_financiero/Análisis financiero.pdf)
 
 
 
