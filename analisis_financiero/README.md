@@ -16,5 +16,6 @@ Se crea un script Python [predecir_estado](analisis_financiero/predecir_estado_c
 El script Python lee un archivo CSV que contiene la información extraida de la base de datos SQL Server, lo puede descargar [data_creditos_completo9.csv](analisis_financiero/data_creditos_completo9.csv). Debe asegurarse que la ruta del archivo sea la del archivo que descargo.
 
 `df = pd.read_csv("/content/drive/MyDrive/Colab_Notebooks/TFM_final/data_creditos_completo9.csv", encoding = 'unicode_escape', engine ='python', sep = ";")`
+## Documentación completa con resumen y conclusión [análisis financiero] ()
 
 
