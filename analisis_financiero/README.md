@@ -18,7 +18,10 @@ El script Python lee un archivo CSV que contiene la información extraida de la 
 `df = pd.read_csv("/content/drive/MyDrive/Colab_Notebooks/TFM_final/data_creditos_completo9.csv", encoding = 'unicode_escape', engine ='python', sep = ";")`
 
 ## Documentación completa con resumen y conclusión
-[analisis_financiero](analisis_financiero/Análisis financiero.pdf) 
+[analisis_financiero](analisis_financiero/Análisis financiero.pdf)
+[analisis_financiero](analisis_financiero/Análisis financiero.pdf)
+
+
 
 
 
