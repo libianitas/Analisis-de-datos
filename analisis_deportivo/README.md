@@ -35,7 +35,7 @@ Para iniciar con su implementación es necesaria su instalación e importación 
 + Se crea un gráfico de barras agrupadas con los resultados finales.
 ## Storytelling completo
 
-[Analisis_deportivo_R](analisis_deportivo/Analisis_deportivo_tenis_con_R.pdf) 
+[Analisis_deportivo_R](Analisis_deportivo_tenis_con_R.pdf) 
 
 
 
