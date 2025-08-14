@@ -12,7 +12,7 @@ La solución se basa en las 5 de 6 fases recomendadas por la metodología CRISP-
 + Evaluación de los modelos de Machine Learning con matrices de confusión e índices de precisión
 
 ## Documentación completa con resumen y conclusión
-## Investigación publicada en la revista CienciAmérica 08/2025
+### Investigación publicada en la revista CienciAmérica 08/2025
 [Predecir_créditos_IA_doi: 10.33210/ca.v14i2.509](https://www.cienciamerica.edu.ec/index.php/uti/article/view/509/1051)
 
 
